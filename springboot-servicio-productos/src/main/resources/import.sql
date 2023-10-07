@@ -1,0 +1,10 @@
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Apple iPhone 13', '999.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Samsung Galaxy S22', '899.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Sony Bravia 4K TV', '799.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Dell XPS 15 Laptop', '1299.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Nike Air Max Sneakers', '129.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Adidas UltraBoost Shoes', '119.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Coca-Cola 12-Pack', '5.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Pepsi 2-Liter Bottle', '1.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('LG OLED 4K TV', '1499.99', NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Lenovo ThinkPad Laptop', '899.99', NOW());

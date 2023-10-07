@@ -1,0 +1,55 @@
+# MacOS
+
+.DS_Store
+
+# Archivos generados por el IDE
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+*.log
+
+# Carpetas y archivos generados por la construcción/compilación
+target/
+build/
+bin/
+logs/
+*.jar
+*.war
+*.ear
+*.class
+
+# Configuración específica del IDE y sistema
+.settings/
+.classpath
+.project
+*.xml
+*.properties
+
+# Dependencias gestionadas por Maven
+springboot-servicio-item/.mvn/
+springboot-servicio-productos/.mvn/
+springboot-servicio-item/target/
+springboot-servicio-productos/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs y archivos temporales
+log/
+*.log
+*.log.*
+*.tmp
+
+# Eclipse
+*.pydevproject
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~
+# NetBeans
+nbproject/
+
